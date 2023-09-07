@@ -54,7 +54,8 @@ const deleteNote = async id => {
 <style scoped lang="less">
 #note-app {
   font-family: Arial, sans-serif;
-  width: 400px;
+  width: 60%;
+  min-width: 350px;
   margin: 0 auto;
   padding: 20px;
   background-color: #f4f4f4;
