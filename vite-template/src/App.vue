@@ -14,8 +14,7 @@ import Note from './components/Note.vue'
   text-align: center;
 }
 .logo {
-  height: 10em;
-  padding: 1.5em;
+  width: 14em;
   will-change: filter;
   transition: filter 300ms;
 }
